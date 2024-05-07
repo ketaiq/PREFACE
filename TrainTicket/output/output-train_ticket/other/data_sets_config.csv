@@ -1,0 +1,16 @@
+code,total,fi_start,fi_end,Attacked Service,Related Service
+linear-cpu-stress-ts-station-service-020211,180,60,114,ts-station,ts-seat:ts-route:ts-config:ts-train:ts-basic
+linear-cpu-stress-ts-basic-service-020616,180,60,169,ts-basic,ts-order:ts-ticketinfo:ts-price:ts-train
+linear-cpu-stress-ts-train-service-020713,180,60,105,ts-train,ts-food:ts-food-map:ts-config:ts-price:ts-contacts:ts-station:ts-basic
+linear-memory-stress-ts-station-service-021917,240,120,196,ts-station,ts-seat:ts-route:ts-config:ts-train:ts-basic
+linear-memory-stress-ts-basic-service-022009,240,120,206,ts-basic,ts-order:ts-ticketinfo:ts-price:ts-train
+linear-memory-stress-ts-train-service-021316,240,120,166,ts-train,ts-food:ts-food-map:ts-config:ts-price:ts-contacts:ts-station:ts-basic
+linear-network-delay-ts-station-service-013016,180,60,84,ts-station,ts-seat:ts-route:ts-config:ts-train:ts-basic
+linear-network-delay-ts-basic-service-020911,180,60,74,ts-basic,ts-order:ts-ticketinfo:ts-price:ts-train
+linear-network-delay-ts-train-service-020116,180,60,87,ts-train,ts-food:ts-food-map:ts-config:ts-price:ts-contacts:ts-station:ts-basic
+linear-cpu-train-memory-station-020912,180,60,126,ts-train,ts-station
+linear-cpu-station-memory-train-020810,180,60,109,ts-station,ts-train
+linear-cpu-train-delay-station-021212,180,60,75,ts-train,ts-station
+linear-cpu-station-delay-train-021310,180,60,84,ts-station,ts-train
+linear-memory-train-delay-station-022621,240,120,132,ts-train,ts-station
+linear-memory-station-delay-train-022622,240,120,135,ts-station,ts-train

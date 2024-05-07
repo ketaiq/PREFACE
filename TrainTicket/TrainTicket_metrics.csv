@@ -1,0 +1,199 @@
+﻿GOOGLE CLOUD MONITORING,,
+,,
+Type of Metrics,# of Metrics,Names of Metrics
+,,
+CPU,21,compute.googleapis.com/guest/cpu/load_15m
+,,compute.googleapis.com/guest/cpu/load_1m
+,,compute.googleapis.com/guest/cpu/load_5m
+,,compute.googleapis.com/guest/cpu/runnable_task_count
+,,compute.googleapis.com/guest/cpu/usage_time
+,,compute.googleapis.com/instance/cpu/guest_visible_vcpus
+,,compute.googleapis.com/instance/cpu/reserved_cores
+,,compute.googleapis.com/instance/cpu/scheduler_wait_time
+,,compute.googleapis.com/instance/cpu/usage_time
+,,compute.googleapis.com/instance/cpu/utilization
+,,kubernetes.io/autoscaler/container/cpu/per_replica_recommended_request_cores
+,,kubernetes.io/container/cpu/core_usage_time
+,,kubernetes.io/container/cpu/limit_cores
+,,kubernetes.io/container/cpu/limit_utilization
+,,kubernetes.io/container/cpu/request_cores
+,,kubernetes.io/container/cpu/request_utilization
+,,kubernetes.io/node/cpu/allocatable_cores
+,,kubernetes.io/node/cpu/allocatable_utilization
+,,kubernetes.io/node/cpu/core_usage_time
+,,kubernetes.io/node/cpu/total_cores
+,,kubernetes.io/node_daemon/cpu/core_usage_time
+,,
+Memory,27,compute.googleapis.com/guest/memory/anonymous_used
+,,compute.googleapis.com/guest/memory/bytes_used
+,,compute.googleapis.com/guest/memory/dirty_used
+,,compute.googleapis.com/guest/memory/page_cache_used
+,,compute.googleapis.com/guest/memory/unevictable_used
+,,compute.googleapis.com/instance/memory/balloon/ram_size
+,,compute.googleapis.com/instance/memory/balloon/ram_used
+,,compute.googleapis.com/instance/memory/balloon/swap_in_bytes_count
+,,compute.googleapis.com/instance/memory/balloon/swap_out_bytes_count
+,,kubernetes.io/autoscaler/container/memory/per_replica_recommended_request_bytes
+,,kubernetes.io/container/accelerator/memory_bandwidth_utilization
+,,kubernetes.io/container/accelerator/memory_total
+,,kubernetes.io/container/accelerator/memory_used
+,,kubernetes.io/container/memory/limit_bytes
+,,kubernetes.io/container/memory/limit_utilization
+,,kubernetes.io/container/memory/page_fault_count
+,,kubernetes.io/container/memory/request_bytes
+,,kubernetes.io/container/memory/request_utilization
+,,kubernetes.io/container/memory/used_bytes
+,,kubernetes.io/node/accelerator/memory_bandwidth_utilization
+,,kubernetes.io/node/accelerator/memory_total
+,,kubernetes.io/node/accelerator/memory_used
+,,kubernetes.io/node/memory/allocatable_bytes
+,,kubernetes.io/node/memory/allocatable_utilization
+,,kubernetes.io/node/memory/total_bytes
+,,kubernetes.io/node/memory/used_bytes
+,,kubernetes.io/node_daemon/memory/used_bytes
+,,
+Network,44,compute.googleapis.com/firewall/dropped_bytes_count
+,,compute.googleapis.com/firewall/dropped_packets_count
+,,compute.googleapis.com/instance/global_dns/request_count
+,,compute.googleapis.com/instance/network/received_bytes_count
+,,compute.googleapis.com/instance/network/received_packets_count
+,,compute.googleapis.com/instance/network/sent_bytes_count
+,,compute.googleapis.com/instance/network/sent_packets_count
+,,compute.googleapis.com/mirroring/dropped_packets_count
+,,compute.googleapis.com/mirroring/mirrored_bytes_count
+,,compute.googleapis.com/mirroring/mirrored_packets_count
+,,compute.googleapis.com/nat/allocated_ports
+,,compute.googleapis.com/nat/closed_connections_count
+,,compute.googleapis.com/nat/dropped_received_packets_count
+,,compute.googleapis.com/nat/dropped_sent_packets_count
+,,compute.googleapis.com/nat/new_connections_count
+,,compute.googleapis.com/nat/open_connections
+,,compute.googleapis.com/nat/port_usage
+,,compute.googleapis.com/nat/received_bytes_count
+,,compute.googleapis.com/nat/received_packets_count
+,,compute.googleapis.com/nat/sent_bytes_count
+,,compute.googleapis.com/nat/sent_packets_count
+,,networking.googleapis.com/node_flow/egress_bytes_count
+,,networking.googleapis.com/node_flow/egress_packets_count
+,,networking.googleapis.com/node_flow/ingress_bytes_count
+,,networking.googleapis.com/node_flow/ingress_packets_count
+,,networking.googleapis.com/node_flow/rtt
+,,networking.googleapis.com/pod_flow/egress_bytes_count
+,,networking.googleapis.com/pod_flow/egress_packets_count
+,,networking.googleapis.com/pod_flow/ingress_bytes_count
+,,networking.googleapis.com/pod_flow/ingress_packets_count
+,,networking.googleapis.com/pod_flow/rtt
+,,networking.googleapis.com/vpc_flow/predicted_max_vpc_flow_logs_count
+,,networking.googleapis.com/vm_flow/connection_count
+,,networking.googleapis.com/vm_flow/egress_bytes_count
+,,networking.googleapis.com/vm_flow/egress_packets_count
+,,networking.googleapis.com/vm_flow/external_rtt
+,,networking.googleapis.com/vm_flow/ingress_bytes_count
+,,networking.googleapis.com/vm_flow/ingress_packets_count
+,,networking.googleapis.com/vm_flow/rtt
+,,kubernetes.io/node/network/received_bytes_count
+,,kubernetes.io/node/network/sent_bytes_count
+,,kubernetes.io/pod/network/policy_event_count
+,,kubernetes.io/pod/network/received_bytes_count
+,,kubernetes.io/pod/network/sent_bytes_count
+,,
+Disk,33,compute.googleapis.com/guest/disk/bytes_used
+,,compute.googleapis.com/guest/disk/io_time
+,,compute.googleapis.com/guest/disk/merged_operation_count
+,,compute.googleapis.com/guest/disk/operation_bytes_count
+,,compute.googleapis.com/guest/disk/operation_count
+,,compute.googleapis.com/guest/disk/operation_time
+,,compute.googleapis.com/guest/disk/queue_length
+,,compute.googleapis.com/guest/disk/weighted_io_time
+,,compute.googleapis.com/instance/disk/average_io_latency
+,,compute.googleapis.com/instance/disk/average_io_queue_depth
+,,compute.googleapis.com/instance/disk/max_read_bytes_count
+,,compute.googleapis.com/instance/disk/max_read_ops_count
+,,compute.googleapis.com/instance/disk/max_write_bytes_count
+,,compute.googleapis.com/instance/disk/max_write_ops_count
+,,compute.googleapis.com/instance/disk/provisioning/iops
+,,compute.googleapis.com/instance/disk/provisioning/size
+,,compute.googleapis.com/instance/disk/provisioning/throughput
+,,compute.googleapis.com/instance/disk/read_bytes_count
+,,compute.googleapis.com/instance/disk/read_ops_count
+,,compute.googleapis.com/instance/disk/write_bytes_count
+,,compute.googleapis.com/instance/disk/write_ops_count
+,,kubernetes.io/container/ephemeral_storage/limit_bytes
+,,kubernetes.io/container/ephemeral_storage/request_bytes
+,,kubernetes.io/container/ephemeral_storage/used_bytes
+,,kubernetes.io/node/ephemeral_storage/allocatable_bytes
+,,kubernetes.io/node/ephemeral_storage/inodes_free
+,,kubernetes.io/node/ephemeral_storage/inodes_total
+,,kubernetes.io/node/ephemeral_storage/total_bytes
+,,kubernetes.io/node/ephemeral_storage/used_bytes
+,,kubernetes.io/pod/ephemeral_storage/used_bytes
+,,kubernetes.io/pod/volume/total_bytes
+,,kubernetes.io/pod/volume/used_bytes
+,,kubernetes.io/pod/volume/utilization
+,,
+System,46,compute.googleapis.com/guest/system/os_feature_enabled
+,,compute.googleapis.com/guest/system/problem_count
+,,compute.googleapis.com/guest/system/problem_state
+,,compute.googleapis.com/guest/system/uptime
+,,compute.googleapis.com/instance/integrity/early_boot_validation_status
+,,compute.googleapis.com/instance/integrity/late_boot_validation_status
+,,compute.googleapis.com/instance/uptime
+,,compute.googleapis.com/instance/uptime_total
+,,compute.googleapis.com/instance_group/predicted_capacity
+,,compute.googleapis.com/instance_group/predicted_size
+,,compute.googleapis.com/instance_group/predicted_utilization
+,,compute.googleapis.com/instance_group/size
+,,logging.googleapis.com/byte_count
+,,logging.googleapis.com/log_entry_count
+,,kubernetes.io/container/accelerator/duty_cycle
+,,kubernetes.io/container/accelerator/request
+,,kubernetes.io/container/accelerator/tensorcore_utilization
+,,kubernetes.io/container/restart_count
+,,kubernetes.io/container/uptime
+,,kubernetes.io/node/accelerator/duty_cycle
+,,kubernetes.io/node/accelerator/tensorcore_utilization
+,,kubernetes.io/node/logs/input_bytes
+,,kubernetes.io/node/pid_limit
+,,kubernetes.io/node/pid_used
+,,prometheus.googleapis.com/kube_daemonset_status_desired_number_scheduled/gauge
+,,prometheus.googleapis.com/kube_daemonset_status_number_misscheduled/gauge
+,,prometheus.googleapis.com/kube_daemonset_status_number_ready/gauge
+,,prometheus.googleapis.com/kube_daemonset_status_updated_number_scheduled/gauge
+,,prometheus.googleapis.com/kube_deployment_spec_replicas/gauge
+,,prometheus.googleapis.com/kube_deployment_status_replicas_available/gauge
+,,prometheus.googleapis.com/kube_deployment_status_replicas_updated/gauge
+,,prometheus.googleapis.com/kube_horizontalpodautoscaler_spec_max_replicas/gauge
+,,prometheus.googleapis.com/kube_horizontalpodautoscaler_spec_min_replicas/gauge
+,,prometheus.googleapis.com/kube_horizontalpodautoscaler_spec_target_metric/gauge
+,,prometheus.googleapis.com/kube_horizontalpodautoscaler_status_condition/gauge
+,,prometheus.googleapis.com/kube_horizontalpodautoscaler_status_current_replicas/gauge
+,,prometheus.googleapis.com/kube_horizontalpodautoscaler_status_desired_replicas/gauge
+,,prometheus.googleapis.com/kube_pod_container_status_ready/gauge
+,,prometheus.googleapis.com/kube_pod_container_status_waiting_reason/gauge
+,,prometheus.googleapis.com/kube_pod_status_phase/gauge
+,,prometheus.googleapis.com/kube_pod_status_unschedulable/gauge
+,,prometheus.googleapis.com/scrape_duration_seconds/gauge
+,,prometheus.googleapis.com/scrape_samples_post_metric_relabeling/gauge
+,,prometheus.googleapis.com/scrape_samples_scraped/gauge
+,,prometheus.googleapis.com/scrape_series_added/gauge
+,,prometheus.googleapis.com/up/gauge
+,,
+LOCUST,,
+Type of Metrics,# of Metrics,Names of Metrics
+Request,6, User Count                  
+                                            ,                       , Requests/s                  
+                                            ,                       , Failures/s                  
+                                            ,                       , Total Median Response Time  
+                                            ,                       , Total Average Response Time 
+                                            ,                       , Total Average Content Size   
+Response Time,11,50%
+                                            ,                       ,66%
+                                            ,                       ,75%
+                                            ,                       ,80%
+                                            ,                       ,90%
+                                            ,                       ,95%
+                                            ,                       ,98%
+                                            ,                       ,99%
+                                            ,                       ,99.90%
+                                            ,                       ,99.99%
+                                            ,                       ,100%

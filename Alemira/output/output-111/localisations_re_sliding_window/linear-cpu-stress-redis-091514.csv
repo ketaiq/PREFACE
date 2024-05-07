@@ -1,0 +1,151 @@
+1, -- 
+2, -- 
+3, -- 
+4, -- 
+5, -- 
+6, -- 
+7, -- 
+8, -- 
+9, -- 
+10, -- 
+11, -- 
+12, -- 
+13, -- 
+14, -- 
+15, -- 
+16, -- 
+17, -- 
+18, -- 
+19, -- 
+20, -- 
+21, -- 
+22, -- 
+23, -- ,identity,0.0,redis,-2.9943,fileapi,-6.7966
+24, -- ,identity,2.0,redis,-2.4324,fileapi,-2.6792
+25, -- ,identity,2.7829,fileapi,-1.4205,userhandlers,-1.7319,redis,-2.7964
+26, -- ,redis,-0.7376,userhandlers,-2.0
+27, -- ,fileapi,-0.8894,userhandlers,-2.9375
+28, -- ,fileapi,-0.6238
+29, -- ,fileapi,-2.325
+30, -- ,fileapi,-1.1389,redis,-4.0
+31, -- ,userapi,-0.0127,fileapi,-1.0683
+32, -- ,redis,2465.025,userapi,-0.0127,fileapi,-0.66
+33, -- ,redis,5523.6324,fileapi,-1.5882
+34, -- ,redis,13313.0029,userhandlers,91.4375,userapi,14.1587,fileapi,-1.5882
+35, -- ,redis,20611.6704,identity,17111.9272,userhandlers,101.4179,userapi,22.1183,fileapi,-0.4828
+36, -- ,redis,22281.5403,userhandlers,70.977,fileapi,-1.3675
+37, -- ,redis,16965.7079,userhandlers,7.0912,fileapi,-1.875
+38, -- ,redis,18813.6101,userhandlers,10.1762,fileapi,-1.871
+39, -- ,redis,20943.8448,userhandlers,14.4334,fileapi,-1.8339,userapi,-4.8812
+40, -- ,redis,27723.7913,userhandlers,11.4902,author,5.5343,fileapi,-1.458,identity,-46.9249
+41, -- ,redis,27817.7191,userhandlers,7.2876,fileapi,-1.8702
+42, -- ,redis,28026.8845,scorm,7.52,userhandlers,6.816,ui,0.2254,fileapi,-2.18
+43, -- ,redis,30225.3648,scorm,20.786,userhandlers,6.3528,userapi,6.3146,fileapi,-2.18
+44, -- ,redis,31510.0515,identity,5777.638,scorm,20.316,userapi,11.505,userhandlers,3.0368,fileapi,-1.9034
+45, -- ,redis,32256.1819,identity,51.5765,userhandlers,0.1679,fileapi,-1.1678
+46, -- ,redis,31665.494,identity,42.4271,userhandlers,0.6434,fileapi,-0.6603
+47, -- ,redis,31353.6275,userapi,18.7396,fileapi,-1.5139
+48, -- ,redis,32237.0869,userapi,72.3585,scorm,0.5107,identity,-0.3651,fileapi,-244.7349
+49, -- ,fileapi,1218554.5043,redis,34480.3298,userapi,51.2573,scorm,0.5107,identity,-50.4824
+50, -- ,redis,34994.8317,userapi,18.68,scorm,0.5107,fileapi,-203.4013
+51, -- ,redis,36026.7301,fileapi,-0.9221
+52, -- ,redis,35019.2486,fileapi,-2.7238
+53, -- ,redis,37240.7621,fileapi,-1.7718
+54, -- ,redis,37356.8468,fileapi,-1.9034
+55, -- ,redis,37762.0847,fileapi,-0.4353
+56, -- ,redis,37959.2918,userhandlers,0.0317,fileapi,-2.1241,identity,-52.5556
+57, -- ,redis,37883.1799,ui,0.111,fileapi,-2.1241,identity,-10.6522
+58, -- ,redis,39929.5966,fileapi,25.5003,identity,-42.6126
+59, -- ,redis,40326.283,fileapi,26.5048,identity,0.0009
+60, -- ,redis,41551.3102,fileapi,26.7937,scorm,7.92,identity,1.8522
+61, -- ,redis,41991.35,userapi,9.1933,scorm,7.77,fileapi,-1.7012
+62, -- ,redis,42205.9693,scorm,7.12,fileapi,-2.184
+63, -- ,redis,43308.6464,fileapi,-2.7238
+64, -- ,redis,44301.0331,identity,5701.6162,fileapi,-2.4668
+65, -- ,redis,45547.7931,identity,17110.8727,fileapi,-1.5882
+66, -- ,redis,45128.0733,identity,11410.2494
+67, -- ,redis,44971.4736,ui,0.111,fileapi,-1.7012
+68, -- ,redis,46180.7522,fileapi,-2.4047
+69, -- ,redis,47664.8671,fileapi,-1.5882
+70, -- ,redis,49012.4853,author,1.355,fileapi,-1.5882
+71, -- ,redis,47622.2628,fileapi,-0.0566
+72, -- ,redis,48297.909,ui,0.111,fileapi,-266.2905
+73, -- ,fileapi,2804986.4499,redis,49446.8991,userhandlers,0.7078
+74, -- ,fileapi,2804987.3884,redis,50616.8292,identity,13.7533
+75, -- ,redis,53150.6216,identity,22.9976,userhandlers,0.6243,fileapi,-0.4353
+76, -- ,redis,53240.526,identity,14.0527,userapi,6.3206,fileapi,-0.9142
+77, -- ,redis,39889.7234,userapi,4.0315,fileapi,-1.9554
+78, -- ,redis,38639.8605,userapi,3.1489,fileapi,-1.7718
+79, -- ,redis,40586.1374,fileapi,-1.7012
+80, -- ,redis,56065.148,scorm,29.74,ui,5.3124,userhandlers,2.8226
+81, -- ,redis,56099.2717,scorm,27.7,fileapi,-1.5882
+82, -- ,redis,56090.9186,scorm,26.34,userhandlers,0.1493,fileapi,-1.5882
+83, -- ,redis,57230.7637,fileapi,-2.18
+84, -- ,redis,59007.2629,userhandlers,42.9193,fileapi,-1.7012
+85, -- ,redis,58246.4253,userhandlers,38.4965,scorm,0.5107,fileapi,-1.7718
+86, -- ,redis,59252.9184,userhandlers,37.3165,scorm,0.5107,fileapi,-3.3899
+87, -- ,redis,60005.1172,scorm,0.5107,userhandlers,0.2027,fileapi,-3.3899
+88, -- ,redis,61637.3916
+89, -- ,redis,61985.0799,userhandlers,0.5667,userapi,-0.2594,fileapi,-0.8847
+90, -- ,redis,60744.3988,userapi,-0.8444,fileapi,-3.1653
+91, -- ,redis,60454.4528,fileapi,-2.9445
+92, -- ,redis,58582.6894,userapi,5.2596,author,2.2088,fileapi,-1.5882,identity,-1.6401
+93, -- ,redis,61180.0007,userapi,40.8905,identity,-0.2778,fileapi,-0.7035
+94, -- ,redis,62963.4637,identity,11402.8854,userapi,27.6888
+95, -- ,redis,65394.1269,userapi,19.8892,fileapi,-1.7012
+96, -- ,redis,65496.0332,userhandlers,0.006,fileapi,-1.0683
+97, -- ,redis,65359.2822,fileapi,-0.4353
+98, -- ,redis,66812.2438,ui,0.2243,userapi,0.2221,userhandlers,0.0973,fileapi,-1.1389
+99, -- ,redis,68152.8934,identity,0.5081,fileapi,-1.9034,userapi,-5.2497
+100, -- ,redis,69303.6617,learner,0.6367,fileapi,-2.3116
+101, -- ,redis,69014.1689,learner,0.86,fileapi,-2.6875
+102, -- ,redis,68977.2143,scorm,3.2189,learner,0.86,fileapi,-1.8299
+103, -- ,fileapi,1218609.7126,redis,69213.0035,scorm,2.3989,learner,0.2233,userapi,-8.0345
+104, -- ,fileapi,4391257.1391,redis,72134.6885,scorm,1.5189,userhandlers,0.0759,userapi,-4.949
+105, -- ,fileapi,1218681.9519,redis,72126.074,userhandlers,16.4283,userapi,5.1448
+106, -- ,redis,72836.7671,fileapi,35.6618,userhandlers,9.6199,identityapi,0.0125
+107, -- ,redis,71176.8802,userhandlers,10.8199,fileapi,2.6332,author,1.3495
+108, -- ,redis,71172.9308,userapi,-0.8443,fileapi,-2.2098
+109, -- ,redis,73159.341,fileapi,-1.3854,userapi,-5.7336
+110, -- ,redis,75950.852,userapi,6.0927,ui,4.1741,fileapi,-2.2018
+111, -- ,redis,77165.0627,userapi,3.1946,fileapi,-1.1456
+112, -- ,redis,78224.017,userapi,23.3272,fileapi,-1.4256,identity,-57.4332
+113, -- ,redis,76654.3964,userapi,13.3709,fileapi,-1.4256,identity,-19.2892
+114, -- ,redis,76990.7522,identity,5754.9739,userapi,20.6068,userhandlers,0.2304,fileapi,-1.4256
+115, -- ,redis,76144.3557,identity,0.0847,fileapi,-0.572
+116, -- ,redis,75622.7822,userhandlers,0.3854,userapi,0.2798,fileapi,-0.1266
+117, -- ,redis,76446.895,userapi,17.3156,identity,0.6967,fileapi,-0.6043
+118, -- ,redis,77194.7862,identity,1.25,userapi,0.2521,fileapi,-1.6132
+119, -- ,redis,79288.6292,userapi,2.9389,identity,0.645,fileapi,-3.1692
+120, -- ,redis,80318.3729,fileapi,-0.9903
+121, -- ,redis,81066.6195,userhandlers,0.2522,fileapi,-2.5734
+122, -- ,redis,80565.2285,fileapi,-2.3527
+123, -- ,redis,81745.6787,author,0.2273,userhandlers,0.055,identity,-0.0017,fileapi,-1.3675
+124, -- ,redis,81989.7164,fileapi,-2.132
+125, -- ,redis,82569.3374,scorm,0.5107,fileapi,-1.3635
+126, -- ,redis,83241.0928,scorm,0.5107,fileapi,-1.2518
+127, -- ,redis,84975.4468,scorm,0.5107,fileapi,-0.8436
+128, -- ,redis,87195.6119,userhandlers,10.5999,fileapi,-0.4353
+129, -- ,redis,87208.8245,userhandlers,8.1399,fileapi,-1.0683
+130, -- ,redis,87737.0556,userhandlers,12.3932,fileapi,-1.7718
+131, -- ,redis,90253.1406,fileapi,-1.9593
+132, -- ,redis,72919.582,fileapi,-2.3116
+133, -- ,redis,73824.5718,fileapi,-1.5471
+134, -- ,redis,72521.6712,fileapi,-1.1389
+135, -- ,redis,91140.4933,identity,17111.675,fileapi,-1.1389
+136, -- ,redis,90253.3593,identity,11402.9832,fileapi,-1.9034
+137, -- ,redis,89635.9743,userapi,5.8073,identity,-0.9736,fileapi,-2.5363
+138, -- ,redis,91752.0394,fileapi,-2.4345
+139, -- ,redis,92969.0394,fileapi,-3.1692
+140, -- ,redis,93438.7734,scorm,0.49,author,0.2273,fileapi,-1.9593,userapi,-5.1624,identity,-12.3873
+141, -- ,redis,92796.335,userhandlers,6.8382,scorm,1.51,author,0.7884,fileapi,-1.3264
+142, -- ,redis,94290.9553,userhandlers,6.8382,fileapi,-1.7346
+143, -- ,redis,97363.0775,fileapi,-1.5471
+144, -- ,redis,98242.4157,fileapi,-1.2518
+145, -- ,redis,98228.7083,identity,5700.4205,userapi,1.5948,fileapi,-1.5471
+146, -- ,redis,97437.2556,userapi,2.7534,identityapi,1.8899,fileapi,-1.5471
+147, -- ,redis,97135.4389,identityapi,1.8899,userapi,-0.9804,fileapi,-2.18
+148, -- ,redis,96625.0428,identityapi,1.8899,userapi,-0.9804,fileapi,-1.4765
+149, -- ,fileapi,1218573.8056,redis,97515.6477,userapi,-0.0127
+150, -- ,fileapi,5977389.2693,redis,97147.8718,userapi,1.9088
+151, -- ,fileapi,5977344.6579,redis,91997.8298,scorm,65.7106,gradeservice,45.4527,ztool,38.3357,scormhandlers,37.918,identityapi,32.5274,identity,30.737,author,12.4686,rui,1.1933,learner,1.1733,ui,1.1126

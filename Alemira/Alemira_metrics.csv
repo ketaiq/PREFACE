@@ -1,0 +1,107 @@
+﻿PROMETHEUS,,
+Type of Metrics,# of Metrics,Names of Metrics
+,,
+CPU,4, instance:node\_load1\_per\_cpu:ratio                                        
+                                      ,                       , namespace\_cpu:kube\_pod\_container\_resource\_limits:sum                   
+                                      ,                       , namespace\_cpu:kube\_pod\_container\_resource\_requests:sum                 
+                                      ,                       , node:node\_cpu\_utilization:ratio\_rate5m                        
+,,
+Memory,18, node\_memory\_MemAvailable\_bytes:sum                                      
+                                      ,                       , container\_memory\_cache                                                    
+                                      ,                       , container\_memory\_max\_usage\_bytes                                        
+                                      ,                       , container\_memory\_rss                                                      
+                                      ,                       , container\_memory\_usage\_bytes                                             
+                                      ,                       , container\_memory\_working\_set\_bytes                                      
+                                      ,                       , container\_oom\_events\_total                                               
+                                      ,                       , instance:node\_memory\_utilisation:ratio                                    
+                                      ,                       , instance:node\_vmstat\_pgmajfault:rate5m                                    
+                                      ,                       , namespace\_memory:kube\_pod\_container\_resource\_limits:sum                
+                                      ,                       , namespace\_memory:kube\_pod\_container\_resource\_requests:sum              
+                                      ,                       , node\_memory\_Dirty\_bytes                                                  
+                                      ,                       , node\_memory\_Writeback\_bytes                                              
+                                      ,                       , node\_vmstat\_oom\_kill                                                     
+                                      ,                       , node\_vmstat\_pgfault                                                       
+                                      ,                       , node\_vmstat\_pgmajfault                                                    
+                                      ,                       , node\_vmstat\_pgpgin                                                        
+                                      ,                       , node\_vmstat\_pgpgout                                                     
+,,
+Network,10, container\_network\_receive\_bytes\_total                                   
+                                      ,                       , container\_network\_receive\_packets\_total                                 
+                                      ,                       , container\_network\_transmit\_bytes\_total                                  
+                                      ,                       , container\_network\_transmit\_packets\_total                                
+                                      ,                       , container\_sockets                                                          
+                                      ,                       , instance:node\_network\_receive\_drop\_excluding\_lo:rate5m                 
+                                      ,                       , node\_load1                                                                 
+                                      ,                       , node\_load15                                                                
+                                      ,                       , node\_load5                                                                 
+                                      ,                       , node\_sockstat\_sockets\_used                                     
+,,
+Process,5, container\_processes                                                        
+                                      ,                       , container\_threads                                                          
+                                      ,                       , node\_procs\_blocked                                                        
+                                      ,                       , node\_procs\_running                                                        
+                                      ,                       , node\_quantile:kubelet\_pleg\_relist\_duration\_seconds:histogram\_quantile  
+Other,8, ALERTS                                                                      
+                                      ,                       , ALERTS\_FOR\_STATE                                                          
+                                      ,                       , instance\_device:node\_disk\_io\_time\_seconds:rate5m                       
+                                      ,                       , kube\_deployment\_status\_condition                                         
+                                      ,                       , kube\_deployment\_status\_replicas\_ready                                   
+                                      ,                       , kube\_deployment\_status\_replicas\_unavailable                             
+                                      ,                       , kube\_endpoint\_address\_available                                          
+                                      ,                       , kube\_horizontalpodautoscaler\_status\_desired\_replicas                   
+,,
+GOOGLE CLOUD MONITORING,,
+,,
+Type of Metrics,# of Metrics,Names of Metrics
+,,
+CPU,6, kubernetes.io/container/cpu/core\_usage\_time               
+                                      ,                       , kubernetes.io/container/cpu/limit\_utilization              
+                                      ,                       , kubernetes.io/container/cpu/request\_utilization            
+                                      ,                       , kubernetes.io/node/cpu/allocatable\_utilization             
+                                      ,                       , kubernetes.io/node/cpu/core\_usage\_time                    
+                                      ,                       , kubernetes.io/node\_daemon/cpu/core\_usage\_time             
+,,
+Memory,7, kubernetes.io/container/memory/limit\_utilization           
+                                      ,                       , kubernetes.io/container/memory/page\_fault\_count           
+                                      ,                       , kubernetes.io/container/memory/request\_utilization         
+                                      ,                       , kubernetes.io/container/memory/used\_bytes                  
+                                      ,                       , kubernetes.io/node/memory/allocatable\_utilization          
+                                      ,                       , kubernetes.io/node/memory/used\_bytes                       
+                                      ,                       , kubernetes.io/node\_daemon/memory/used\_bytes                
+,,
+Network,10, kubernetes.io/pod/network/received\_bytes\_count            
+                                      ,                       , kubernetes.io/pod/network/sent\_bytes\_count                
+                                      ,                       , networking.googleapis.com/node\_flow/rtt                    
+                                      ,                       , networking.googleapis.com/pod\_flow/egress\_bytes\_count    
+                                      ,                       , networking.googleapis.com/pod\_flow/egress\_packets\_count  
+                                      ,                       , networking.googleapis.com/pod\_flow/ingress\_bytes\_count   
+                                      ,                       , networking.googleapis.com/pod\_flow/ingress\_packets\_count 
+                                      ,                       , networking.googleapis.com/pod\_flow/rtt                     
+                                      ,                       , networking.googleapis.com/vm\_flow/external\_rtt            
+                                      ,                       , networking.googleapis.com/vm\_flow/rtt                       
+,,
+Other,3, kubernetes.io/container/restart\_count                      
+                                      ,                       , kubernetes.io/container/uptime                              
+                                      ,                       , kubernetes.io/node/pid\_used
+,,
+LOCUST,,
+Type of Metrics,# of Metrics,Names of Metrics
+,,
+Request,6, User Count                  
+                                            ,                       , Requests/s                  
+                                            ,                       , Failures/s                  
+                                            ,                       , Total Median Response Time  
+                                            ,                       , Total Average Response Time 
+                                            ,                       , Total Average Content Size   
+,,
+Response Time,11,50%
+                                            ,                       ,66%
+                                            ,                       ,75%
+                                            ,                       ,80%
+                                            ,                       ,90%
+                                            ,                       ,95%
+                                            ,                       ,98%
+                                            ,                       ,99%
+                                            ,                       ,99.90%
+                                            ,                       ,99.99%
+                                            ,                       ,100%

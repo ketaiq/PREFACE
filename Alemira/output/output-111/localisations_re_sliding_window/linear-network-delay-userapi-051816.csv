@@ -1,0 +1,180 @@
+1, -- 
+2, -- 
+3, -- 
+4, -- 
+5, -- 
+6, -- 
+7, -- 
+8, -- 
+9, -- 
+10, -- 
+11, -- 
+12, -- 
+13, -- 
+14, -- 
+15, -- 
+16, -- 
+17, -- 
+18, -- 
+19, -- 
+20, -- 
+21, -- ,rui,0.8872,userhandlers,-0.8946,identity,-2.9369,userapi,-18.7758
+22, -- ,userapi,1.732,rui,1.4231,userhandlers,-0.8253
+23, -- ,userapi,0.0,userhandlers,-0.1349,rui,-1.1371
+24, -- ,rui,-0.1901,userapi,-1.0001,userhandlers,-1.3093
+25, -- ,userapi,3.3794,rui,1.2266,userhandlers,-0.9838,identity,-5.5773
+26, -- ,userhandlers,6.1045,rui,1.6538,userapi,-7.2805
+27, -- ,userhandlers,3.0729,userapi,-0.1581,rui,-0.3355
+28, -- ,rui,-0.46,userhandlers,-0.7317,userapi,-2.3107
+29, -- ,userapi,10.8187,fileapi,0.0,userhandlers,-0.1193,rui,-0.189
+30, -- ,userapi,39.7164,userhandlers,4.0,rui,1.2954,fileapi,1.0,identity,-4.0
+31, -- ,rui,-0.1736,fileapi,-0.7071,userhandlers,-2.5587,userapi,-16.0919
+32, -- ,userapi,-2.682,rui,-4.0997
+33, -- ,gradeservice,0.0,userapi,-0.0185,rui,-4.9464
+34, -- ,userapi,86.6223,identity,6.0,userhandlers,0.0,fileapi,-0.5773,rui,-2.7051
+35, -- ,userapi,57.4121,identity,7.0537,fileapi,-1.7752,userhandlers,-2.0,rui,-3.8698
+36, -- ,fileapi,3.0683,userhandlers,0.2804,identityapi,0.0,rui,-1.531,userapi,-4.1363,identity,-9.1756
+37, -- ,fileapi,-0.866,rui,-2.9178,userapi,-7.1954
+38, -- ,fileapi,-0.7746,rui,-1.2807,userapi,-8.503
+39, -- ,userapi,12.2806,userhandlers,5.1821,rui,-0.6959
+40, -- ,userapi,13.3594,userhandlers,4.668,rui,-0.4777
+41, -- ,userhandlers,7.5061,userapi,-0.4647,rui,-1.9031
+42, -- ,rui,-3.4221,userapi,-6.0114
+43, -- ,userapi,3.4858,rui,-2.6742
+44, -- ,userapi,10.5008,identity,0.0,rui,-1.4673
+45, -- ,userapi,4.0322,identity,4.0,rui,-0.6501
+46, -- ,userapi,4.9396,identity,2.8284,rui,-2.5761
+47, -- ,fileapi,0.0,userapi,-1.9668,rui,-4.412
+48, -- ,fileapi,0.0,userapi,-1.5971,userhandlers,-2.9895,rui,-4.3098
+49, -- ,userhandlers,-2.4718,rui,-3.2626,userapi,-4.3844
+50, -- ,userapi,3.4306,userhandlers,-2.1545,rui,-3.6075
+51, -- ,ztool,0.0,scorm,0.0,userapi,-1.9802,rui,-3.2941
+52, -- ,userapi,1.8916,scorm,0.0,rui,-2.9811
+53, -- ,scorm,1.562,rui,-1.794,userapi,-2.4572
+54, -- ,userapi,0.043,rui,-1.3485
+55, -- ,userapi,0.3085,rui,-1.328
+56, -- ,userapi,10.1596,rui,-1.8776
+57, -- ,userapi,6.0091,rui,-1.699,userhandlers,-1.7122
+58, -- ,userapi,3.4466,rui,-1.1754
+59, -- ,rui,-10.2192,userapi,-10.777
+60, -- ,rui,0.3624,userapi,-10.7093
+61, -- ,rui,-2.476,userapi,-2.9422
+62, -- ,userhandlers,0.0,scorm,0.0,rui,-3.5091,userapi,-9.3554
+63, -- ,scorm,6.0,userhandlers,2.0,identity,0.0,rui,-2.8958,userapi,-12.1416
+64, -- ,userhandlers,5.7381,identity,1.3728,rui,-2.3006,userapi,-11.0319
+65, -- ,userapi,18.9394,identity,4.2277,rui,-2.2536
+66, -- ,userapi,75.4678,fileapi,0.244,rui,-2.8489
+67, -- ,userapi,108.4211,fileapi,12.9647,rui,-2.2536
+68, -- ,userapi,537809449361.6022,fileapi,16.1437,rui,-2.5642
+69, -- ,userapi,1075618898612.3029,fileapi,98.5401,rui,-2.2536
+70, -- ,userapi,1613428347904.323,fileapi,79.0062,rui,-3.7757
+71, -- ,userapi,1613428347912.696,userhandlers,4920324353.3876,fileapi,79.5595,rui,-4.3826
+72, -- ,userapi,1613428347920.7676,userhandlers,3454120040.7758,rui,-4.9519
+73, -- ,userapi,1613428347929.9329,identity,4.278,rui,-4.9883,userhandlers,-209063300077.7349
+74, -- ,userapi,1613428347918.1584,rui,-4.6449,fileapi,-69.7667
+75, -- ,userapi,1613428347907.1853,rui,-5.5471,fileapi,-76.9333
+76, -- ,userapi,1613428347930.1975,rui,-4.9519
+77, -- ,userapi,1613428347941.7908,userhandlers,1147248262351.29,rui,-5.9633
+78, -- ,userapi,1613428347922.0789,userhandlers,1147248262377.6868,identity,0.0698,rui,-5.4855
+79, -- ,userapi,1613428347910.3271,userhandlers,1073597756712.2124,rui,7.67
+80, -- ,userapi,1613428347911.8086,rui,26.3724
+81, -- ,userapi,1613428347930.5747,rui,36.968,identity,9.0401
+82, -- ,userapi,1613428347949.1394,rui,40.8895,identity,11.5986
+83, -- ,userapi,1613428347954.0525,rui,40.5461,identity,8.9093
+84, -- ,userapi,1613428347937.7659,rui,39.951
+85, -- ,userapi,1613428347918.2756,rui,37.8701
+86, -- ,userapi,1613428347936.7974,rui,40.8895,fileapi,4.635
+87, -- ,userapi,1613428347945.3582,userhandlers,79992012171.3748,rui,41.5211,fileapi,16.8482,identity,1.5241
+88, -- ,userapi,1613428347958.484,userhandlers,79992012172.4148,rui,43.9348,fileapi,20.251,identity,0.588
+89, -- ,userapi,1613428347933.6245,rui,41.4847,fileapi,33.8678
+90, -- ,userapi,1613428347926.3555,rui,42.1386
+91, -- ,userapi,2218685107239.982,rui,41.2106,userhandlers,3.9864
+92, -- ,userapi,3092846591210.118,rui,36.3364,userhandlers,7.8453,scorm,0.96
+93, -- ,userapi,3967008075173.7944,rui,35.1354,userhandlers,8.2904,scorm,1.595,identity,1.192
+94, -- ,userapi,4235912799820.541,rui,34.5543,userhandlers,6.3958,scorm,2.745,identity,0.1791
+95, -- ,userapi,4235912799811.5127,rui,38.7865,userhandlers,14.2611
+96, -- ,userapi,4235912799820.431,rui,38.7865,userhandlers,-16989931036.2699
+97, -- ,userapi,4235912799833.561,userhandlers,85963979360.2664,rui,39.0712
+98, -- ,userapi,4235912799842.035,userhandlers,82667425577.6858,rui,37.848
+99, -- ,userapi,4235912799850.46,rui,39.3452,userhandlers,0.1309
+100, -- ,userapi,4235912799838.7046,rui,43.3032,userhandlers,0.0178
+101, -- ,userapi,4235912799841.352,rui,48.2138
+102, -- ,userapi,4235912799843.534,rui,54.8374
+103, -- ,userapi,4235912799852.2007,rui,61.782,identity,0.1791
+104, -- ,userapi,4235912799845.4985,rui,58.226,identity,0.0696
+105, -- ,userapi,4235912799839.06,rui,50.4485
+106, -- ,userapi,4235912799850.864,rui,48.6523
+107, -- ,userapi,4235912799872.4946,scorm,191.5782,rui,51.0295
+108, -- ,userapi,4303193122979.689,scorm,199.2374,rui,51.292,identity,-8.8244
+109, -- ,userapi,4370473446058.9487,scorm,198.506,rui,50.138
+110, -- ,userapi,4437753769138.178,rui,48.283,ztool,-0.1783,identity,-10.0489
+111, -- ,userapi,4437753769139.055,rui,47.6996,userhandlers,0.0897
+112, -- ,userapi,4437753769150.018,rui,48.6158,userhandlers,0.0897
+113, -- ,userapi,4437753769170.095,fileapi,1543314.9728,rui,54.0854,userhandlers,0.0044
+114, -- ,userapi,4437753769164.204,fileapi,1543274.4728,rui,51.7081
+115, -- ,userapi,4437753769147.46,rui,49.2697
+116, -- ,userapi,4437753769146.096,rui,44.4647
+117, -- ,userapi,4437753769158.192,userhandlers,101501972276.895,rui,40.3383
+118, -- ,userapi,4437753769184.457,userhandlers,101501972281.3965,rui,40.1346,identity,0.0696
+119, -- ,userapi,4437753769200.062,rui,37.516
+120, -- ,userapi,4437753769174.797,rui,35.1245
+121, -- ,userapi,4437753769159.361,rui,35.482
+122, -- ,userapi,4437753769156.318,rui,34.8869
+123, -- ,userapi,4437753769160.656,rui,35.1609
+124, -- ,userapi,4437753769170.32,rui,35.1245
+125, -- ,userapi,4437753769169.24,rui,35.1833
+126, -- ,userapi,4437753769168.945,rui,35.7784
+127, -- ,userapi,4437753769175.939,rui,36.4206
+128, -- ,userapi,4437753769183.516,rui,36.315
+129, -- ,userapi,4437753769180.432,rui,35.1141
+130, -- ,userapi,4437753769162.641,rui,33.3062
+131, -- ,userapi,4437753769162.295,rui,33.0215
+132, -- ,userapi,4437753769156.028,rui,35.7092,identity,0.0697
+133, -- ,userapi,4437753769175.784,rui,34.7707,identity,0.0697
+134, -- ,userapi,4437753769173.151,rui,35.3988
+135, -- ,userapi,4437753769174.711,rui,35.1609
+136, -- ,userapi,4437753769162.329,rui,31.5464,userhandlers,3.8383
+137, -- ,userapi,4437753769174.203,rui,31.2253,userhandlers,-180951922479.7593
+138, -- ,userapi,4437753769175.533,rui,30.8819,identity,0.2966,userhandlers,-163659455153.3735
+139, -- ,userapi,4437753769178.948,rui,32.0242,userhandlers,9.1526,identity,0.5667
+140, -- ,userapi,4437753769169.358,rui,30.5386,userhandlers,14.6387,identity,0.1791
+141, -- ,userapi,4437753769156.382,rui,30.8925,userhandlers,21.3882
+142, -- ,userapi,4437753769149.965,rui,29.4174,userhandlers,20.0897,identityapi,0.0103,ztool,-0.0017
+143, -- ,userapi,4437753769148.585,rui,30.9042,userhandlers,17.6701
+144, -- ,userapi,4437753769146.598,rui,28.848,userhandlers,14.6257
+145, -- ,userapi,4437753769150.539,rui,30.3089,userhandlers,14.1852
+146, -- ,userapi,4437753769143.757,rui,29.1444,userhandlers,8.9569
+147, -- ,userapi,4437753769149.267,rui,32.1521,userhandlers,0.0445
+148, -- ,userapi,4437753769149.939,rui,32.664,userhandlers,0.2031
+149, -- ,userapi,4437753769163.294,scorm,424.2235,rui,32.0947
+150, -- ,userapi,4437753769169.804,scorm,432.9224,rui,31.51
+151, -- ,userapi,4437753769171.585,scorm,677985706888.1053,rui,29.4761
+152, -- ,userapi,4437753769179.281,scorm,426.5917,rui,30.6078,identity,0.119
+153, -- ,userapi,4437753769179.17,scorm,338942008599.196,rui,32.664
+154, -- ,userapi,4437753769174.874,rui,35.0553
+155, -- ,userapi,4437753769183.469,rui,36.5304
+156, -- ,userapi,4437753769184.119,rui,36.8151
+157, -- ,userapi,4437753769185.682,rui,37.1726,identity,13.503
+158, -- ,userapi,4437753769182.963,rui,36.2928,identity,12.783
+159, -- ,userapi,4437753769184.034,rui,36.2564,identity,11.9595,userhandlers,1.725
+160, -- ,userapi,4437753769178.9,rui,33.8544,userhandlers,4.3236
+161, -- ,userapi,4437753769179.176,rui,36.315,userhandlers,4.8796
+162, -- ,userapi,4437753769178.039,scorm,450.5277,rui,34.4602,userhandlers,4.841
+163, -- ,userapi,4437753769167.197,scorm,422.7113,rui,39.2288,userhandlers,6.3324,identity,0.0696
+164, -- ,userapi,4437753769169.498,scorm,364.9281,rui,43.0588,userhandlers,6.5221
+165, -- ,userapi,4437753769162.479,rui,47.1878,userhandlers,2.6346
+166, -- ,userapi,4437753769159.36,rui,51.113,userhandlers,0.3823
+167, -- ,userapi,4437753769158.576,rui,51.6353,userhandlers,0.0971
+168, -- ,userapi,4437753769158.281,rui,51.9928,userhandlers,0.0178
+169, -- ,userapi,4437753769157.619,fileapi,454.7338,rui,50.7448
+170, -- ,userapi,4437753769155.505,fileapi,487.8671,rui,56.404
+171, -- ,userapi,4437753769149.283,rui,56.9992
+172, -- ,userapi,4437753769297.911,rui,48.2362,identity,2.8482
+173, -- ,userapi,4437753769326.247,rui,44.3368
+174, -- ,userapi,4437753769319.407,rui,44.0263
+175, -- ,userapi,4437753769181.674,rui,45.2636
+176, -- ,userapi,4437753769134.897,rui,46.1658,identity,0.2966
+177, -- ,userapi,4437753769135.815,rui,46.4764,identity,0.0697
+178, -- ,userapi,4437753769135.34,rui,47.0715
+179, -- ,userapi,4437753769134.45,rui,45.8589
+180, -- ,userapi,4437753769118.104,rui,30.7464

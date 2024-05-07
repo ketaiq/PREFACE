@@ -1,0 +1,181 @@
+1, -- 
+2, -- 
+3, -- 
+4, -- 
+5, -- 
+6, -- 
+7, -- 
+8, -- 
+9, -- 
+10, -- 
+11, -- 
+12, -- 
+13, -- 
+14, -- 
+15, -- 
+16, -- 
+17, -- 
+18, -- 
+19, -- 
+20, -- 
+21, -- ,gradeservice,-1.4048,userapi,-1.7284
+22, -- ,gradeservice,2.4347,userapi,1.0711
+23, -- ,gradeservice,14.5042,userapi,0.3541
+24, -- ,gradeservice,1.4631,userapi,0.0361
+25, -- ,userapi,0.6852,gradeservice,-8.9258
+26, -- ,gradeservice,4.5726,userapi,0.7221,identity,0.0,scormhandlers,-7.0
+27, -- ,scormhandlers,14.6096,userapi,1.0686,gradeservice,-4.4667
+28, -- ,gradeservice,0.8994,userapi,0.0913,fileapi,0.0,scormhandlers,-5.3386
+29, -- ,fileapi,1.0,userapi,0.4094,gradeservice,-11.7203
+30, -- ,userapi,1.0565,gradeservice,-6.2125
+31, -- ,userapi,0.5893,redis,0.0,identity,-4.2426,gradeservice,-5.9793
+32, -- ,userapi,-0.699,redis,-4.0,gradeservice,-4.3797
+33, -- ,userapi,17.159,gradeservice,3.2719,redis,-6.3288
+34, -- ,gradeservice,34.2775,userapi,30.628,redis,0.0
+35, -- ,userapi,51.329,gradeservice,25.3446,redis,6.0,identity,5.0,userhandlers,0.0
+36, -- ,userapi,34.3359,redis,4.2426,gradeservice,3.8694
+37, -- ,userapi,35.4567,redis,3.4641,gradeservice,-1.8491
+38, -- ,userapi,66.5643,redis,3.0,gradeservice,0.2678
+39, -- ,userapi,132.2427,redis,3.0,gradeservice,-1.8015
+40, -- ,userapi,178.4041,gradeservice,4.3305,redis,3.0
+41, -- ,userapi,183.1826,redis,3.0,gradeservice,0.3023
+42, -- ,userapi,183.7146,redis,3.0,gradeservice,-0.0483
+43, -- ,userapi,189.0526,fileapi,14.0219,redis,3.0,gradeservice,-4.2711
+44, -- ,userapi,193.9687,fileapi,8.2439,redis,3.0,gradeservice,-1.7682
+45, -- ,userapi,192.6259,gradeservice,44.7105,fileapi,8.2439,redis,3.0
+46, -- ,userapi,195.3423,gradeservice,44.5797,redis,3.3788
+47, -- ,gradeservice,237.4475,userapi,199.7006,redis,3.3788
+48, -- ,gradeservice,224.1826,userapi,210.5378,redis,3.3788,identity,-9.3335
+49, -- ,gradeservice,215.3192,userapi,210.1927,redis,3.0
+50, -- ,userapi,214.7062,gradeservice,108.3524,redis,3.0
+51, -- ,userapi,217.2814,gradeservice,70.8201,fileapi,31.6965,redis,3.0
+52, -- ,userapi,223.4531,gradeservice,67.1567,fileapi,26.2799,redis,3.0
+53, -- ,userapi,219.5833,fileapi,26.4599,redis,3.0,gradeservice,1.9544
+54, -- ,userapi,224.7674,redis,3.0,gradeservice,-4.25
+55, -- ,userapi,234.369,redis,3.0,gradeservice,-4.6007
+56, -- ,userapi,237.0806,redis,3.0,gradeservice,-5.0253
+57, -- ,userapi,248.9836,redis,3.0,gradeservice,-4.1725
+58, -- ,userapi,248.7558,gradeservice,6.2158,redis,3.0
+59, -- ,userapi,249.8854,redis,3.0,gradeservice,-0.6164
+60, -- ,userapi,247.3019,gradeservice,11.142,redis,3.0
+61, -- ,userapi,252.6373,gradeservice,9.8845,redis,3.0,identity,1.9773
+62, -- ,userapi,261.19,gradeservice,16.0996,redis,3.0,identity,-4.977
+63, -- ,userapi,265.734,gradeservice,16.4502,redis,3.0,identity,-8.7441
+64, -- ,userapi,267.5966,gradeservice,12.2353,redis,3.0
+65, -- ,userapi,274.9895,redis,3.0,gradeservice,0.2239
+66, -- ,userapi,280.6274,gradeservice,8.4458,redis,3.0
+67, -- ,userapi,286.815,redis,3.0,gradeservice,-0.8528
+68, -- ,userapi,290.0198,redis,3.0
+69, -- ,userapi,294.2593,redis,3.0,scormhandlers,-6.0571
+70, -- ,userapi,297.7786,redis,3.0,gradeservice,0.8045,scormhandlers,-6.0571
+71, -- ,userapi,298.7747,redis,3.0,gradeservice,-0.5021,scormhandlers,-6.0571
+72, -- ,userapi,300.7378,redis,3.0,scormhandlers,-6.0571,gradeservice,-133.2789
+73, -- ,userapi,299.2899,redis,3.0,gradeservice,-132.2653
+74, -- ,userapi,304.0121,gradeservice,8.8323,redis,3.0
+75, -- ,userapi,311.7447,gradeservice,26.4222,redis,3.0
+76, -- ,userapi,317.869,gradeservice,22.4552,redis,3.0,identity,-9.3306
+77, -- ,userapi,282.7517,redis,3.0,gradeservice,-7.7355
+78, -- ,userapi,290.9266,redis,3.0
+79, -- ,userapi,297.5287,redis,3.0,gradeservice,-0.8528
+80, -- ,userapi,340.1863,redis,3.0,gradeservice,-1.8015
+81, -- ,userapi,339.947,redis,3.0,gradeservice,-5.835
+82, -- ,userapi,340.3763,redis,3.0,gradeservice,-4.1154
+83, -- ,userapi,337.5953,gradeservice,8.7721,redis,3.0
+84, -- ,userapi,347.4376,gradeservice,8.312,redis,3.0
+85, -- ,userapi,350.5865,redis,3.0,gradeservice,-0.6147
+86, -- ,userapi,362.6155,gradeservice,5.4345,redis,3.0,userhandlers,0.1089
+87, -- ,userapi,360.213,redis,3.0,gradeservice,-0.1616
+88, -- ,userapi,368.3002,gradeservice,14.3544,redis,3.0
+89, -- ,userapi,374.1535,gradeservice,26.3725,redis,3.0
+90, -- ,userapi,373.363,gradeservice,26.5179,redis,3.0
+91, -- ,userapi,378.5843,gradeservice,5.0318,redis,3.0
+92, -- ,userapi,380.7793,gradeservice,3.029,redis,3.0
+93, -- ,userapi,390.5214,redis,3.0,gradeservice,-2.2986
+94, -- ,userapi,395.3372,redis,3.0,gradeservice,-3.7655
+95, -- ,userapi,392.902,gradeservice,15.6599,redis,3.0
+96, -- ,userapi,395.3648,gradeservice,3.3604,redis,3.0
+97, -- ,userapi,401.9846,redis,3.0,gradeservice,0.653
+98, -- ,userapi,417.5961,fileapi,19.717,gradeservice,11.3245,redis,3.0,identity,-9.3342
+99, -- ,userapi,417.6085,fileapi,36.2884,redis,3.0,gradeservice,-5.8511
+100, -- ,userapi,416.5889,fileapi,23.5241,redis,3.0,gradeservice,1.0285
+101, -- ,userapi,418.226,redis,3.0,gradeservice,-4.375
+102, -- ,userapi,426.3606,gradeservice,17.6122,redis,3.0
+103, -- ,fileapi,699976.8257,userapi,432.0673,gradeservice,17.9629,redis,3.0
+104, -- ,fileapi,699972.0257,userapi,439.4483,redis,3.0,gradeservice,0.1911
+105, -- ,userapi,434.8994,gradeservice,10.731,redis,3.0,scorm,0.5106
+106, -- ,userapi,446.6783,gradeservice,16.7323,redis,3.0,scorm,0.5106,userhandlers,0.1046
+107, -- ,userapi,421.0722,gradeservice,28.526,redis,3.0,scorm,0.5106,userhandlers,0.0343
+108, -- ,userapi,429.0613,gradeservice,32.9851,redis,3.0
+109, -- ,userapi,425.8524,gradeservice,38.3338,redis,3.0
+110, -- ,userapi,451.564,redis,3.0,gradeservice,1.6038,learner,0.6367
+111, -- ,userapi,454.9298,redis,3.0,learner,0.97,identity,0.4278,gradeservice,-1.8015
+112, -- ,userapi,403.4115,redis,3.0,learner,0.97,gradeservice,-1.8015,identity,-8.3345
+113, -- ,userapi,410.6086,redis,3.0,learner,0.2133,gradeservice,-1.8015
+114, -- ,userapi,419.4877,redis,3.0,gradeservice,-1.8015,scormhandlers,-5.3386
+115, -- ,userapi,478.7899,redis,3.0,gradeservice,-6.4067
+116, -- ,userapi,482.4674,redis,3.0,gradeservice,-1.8015,identity,-9.3332
+117, -- ,userapi,481.3835,gradeservice,8.0216,redis,3.0,identity,-5.0027
+118, -- ,userapi,487.6241,redis,3.0,gradeservice,0.4952
+119, -- ,userapi,498.0094,gradeservice,55.7456,redis,3.0
+120, -- ,userapi,498.0767,gradeservice,15.8156,redis,3.0
+121, -- ,userapi,479.1462,gradeservice,38.4598,redis,3.0001
+122, -- ,userapi,489.5591,redis,3.0001,gradeservice,-3.2057
+123, -- ,userapi,499.3528,gradeservice,3.8422,redis,3.0001
+124, -- ,userapi,547.4756,redis,3.0001,userhandlers,0.0111,gradeservice,-3.7238
+125, -- ,userapi,562.0495,redis,3.0001,userhandlers,0.0106,gradeservice,-4.4251
+126, -- ,userapi,563.6921,gradeservice,8.3992,redis,3.0,userhandlers,0.0211,identity,-8.3345
+127, -- ,userapi,540.3339,gradeservice,33.9213,redis,3.0,identity,-5.7131
+128, -- ,userapi,527.8023,redis,3.0,gradeservice,-92.7367
+129, -- ,userapi,537.827,gradeservice,36.3701,redis,3.0001
+130, -- ,userapi,547.4655,redis,3.0001,gradeservice,-6.6981
+131, -- ,userapi,554.0537,gradeservice,7.21,redis,3.0001,identity,-8.3343
+132, -- ,userapi,465.6724,redis,3.0001,gradeservice,-11.8537
+133, -- ,userapi,475.5338,redis,3.0,gradeservice,-1.5245
+134, -- ,userapi,490.9049,gradeservice,3.9799,redis,3.0
+135, -- ,userapi,564.9343,redis,3.0,gradeservice,0.8699
+136, -- ,userapi,574.7016,fileapi,47.2667,gradeservice,10.8684,redis,3.0,identity,-8.3344
+137, -- ,userapi,557.1175,redis,3.0001,gradeservice,-127.5764
+138, -- ,userapi,567.6961,redis,3.0001,gradeservice,-133.6445
+139, -- ,gradeservice,676085575916.4523,userapi,573.7211,redis,3.0001
+140, -- ,userapi,582.2289,gradeservice,3.4578,redis,3.0001
+141, -- ,userapi,576.1425,redis,3.0001,gradeservice,-1.8015
+142, -- ,userapi,579.8682,redis,3.0,gradeservice,-111.9467,fileapi,-695.7873
+143, -- ,userapi,591.9692,redis,3.0,userhandlers,0.0313,gradeservice,-94.8628,fileapi,-704.9207
+144, -- ,userapi,604.7427,redis,3.0,userhandlers,0.0313,gradeservice,-72.5584
+145, -- ,userapi,603.6869,gradeservice,4.505,redis,3.0
+146, -- ,userapi,591.7384,redis,3.0001,gradeservice,1.6038
+147, -- ,userapi,589.9256,redis,3.0001,gradeservice,-125.3449
+148, -- ,gradeservice,676085575917.5936,userapi,612.1171,redis,3.0001
+149, -- ,gradeservice,676085575911.7012,userapi,622.4291,redis,3.0001
+150, -- ,userapi,622.7738,redis,3.0,gradeservice,1.0653
+151, -- ,userapi,610.8377,redis,3.0,gradeservice,-1.8015
+152, -- ,userapi,524.7646,redis,3.0,gradeservice,-0.9487
+153, -- ,userapi,319.0534,redis,3.0,gradeservice,-0.9487
+154, -- ,userapi,119.2206,redis,3.0,gradeservice,-1.8015
+155, -- ,userapi,5.8089,redis,3.0,gradeservice,-6.0133
+156, -- ,userapi,38.1136,fileapi,6.5381,redis,2.9999,gradeservice,-6.0133
+157, -- ,userapi,30.4522,fileapi,5.2583,redis,2.9999,gradeservice,0.9025
+158, -- ,gradeservice,18.4062,fileapi,3.5183,redis,-12.0001,userapi,-27.2636
+159, -- ,gradeservice,17.2416,fileapi,0.379,userapi,-14.9236
+160, -- ,gradeservice,25.3379,userapi,-11.1704
+161, -- ,userapi,8.5,gradeservice,0.2012
+162, -- ,userapi,7.9794,gradeservice,-13.0178
+163, -- ,gradeservice,-0.1494,identity,-9.3363,userapi,-26.7384
+164, -- ,gradeservice,-4.3511,userapi,-5.1374
+165, -- ,userapi,-0.4691,gradeservice,-9.0136
+166, -- ,userapi,0.5721,gradeservice,-9.0136
+167, -- ,userapi,0.0515,gradeservice,-10.5265
+168, -- ,userapi,8.755,gradeservice,-142.1291
+169, -- ,gradeservice,676085575923.068,userapi,2.0731
+170, -- ,gradeservice,676085575930.6367,userapi,17.1342
+171, -- ,gradeservice,676085576035.5303,userapi,-1.7589
+172, -- ,gradeservice,676085576042.8461,userapi,-8.9032
+173, -- ,gradeservice,14.0354,userapi,-6.5775
+174, -- ,userapi,1.0927,gradeservice,-10.5659
+175, -- ,userapi,1.6133,scormhandlers,-6.0536,gradeservice,-7.8858
+176, -- ,userapi,-5.0157,gradeservice,-7.5352
+177, -- ,gradeservice,9.0351,scormhandlers,-5.3352,userapi,-9.9121
+178, -- ,gradeservice,3.3553,userapi,-8.3826
+179, -- ,gradeservice,0.9216,userapi,-10.4327,fileapi,-764.7207
+180, -- ,fileapi,1399872.0698,gradeservice,-3.5502,userapi,-7.862
+181, -- ,fileapi,18911776.3214,redis,25627.1668,scorm,178.2133,gradeservice,160.3497,scormhandlers,140.561,identity,108.1556,identityapi,106.9281,ztool,97.8024,author,21.4547,userapi,11.2629,rui,7.1701,learner,5.8067,ui,3.914,userhandlers,1.935
