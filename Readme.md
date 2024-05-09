@@ -134,7 +134,7 @@ cat normal-2weeks.tar.gz* | tar zx
 
 ```sh
 # Create conda environment
-conda create --name preface-analysis --channel conda-forge python=3.10 jupyterlab numpy pandas scikit-learn matplotlib plotly scipy tensorflow statsmodels networkx
+conda create --name preface-analysis --channel conda-forge python=3.10 jupyterlab=4.2.0 numpy=1.26.4 pandas=2.2.2 scikit-learn=1.4.2 matplotlib=3.8.4 plotly=5.22.0 scipy=1.13.0 tensorflow=2.15.0 statsmodels=0.14.1 networkx=3.3
 
 # Activate conda environment
 conda activate preface-analysis
