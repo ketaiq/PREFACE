@@ -134,7 +134,7 @@ cat normal-2weeks.tar.gz* | tar zx
 
 ```sh
 # Create conda environment
-conda create --name preface-analysis --channel conda-forge python=3.10 jupyterlab numpy pandas scikit-learn matplotlib plotly scipy tensorflow
+conda create --name preface-analysis --channel conda-forge python=3.10 jupyterlab numpy pandas scikit-learn matplotlib plotly scipy tensorflow statsmodels networkx
 
 # Activate conda environment
 conda activate preface-analysis
@@ -156,6 +156,8 @@ jupyter lab
 1. dataset_tune_normalize.ipynb
 2. predict.ipynb
 3. results.ipynb
+
+The plots generated in _results.ipynb_ should match Fig. 6 and Fig. 7 in our paper.
 
 ## Experimental Procedure
 
